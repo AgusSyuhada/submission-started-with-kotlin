@@ -1,18 +1,5 @@
 # Proyek Submission MPK 
 
-### Aturan mengerjakan submission
-
-Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
-
-- Mengubah kode yang berada di dalam fungsi main()
-- Mengubah (kecuali untuk mengerjakan TODO) atau menghapus kode yang sudah ada
-- Membuat fungsi baru yang bukan merupakan tugas latihan
-- Mengubah struktur project (menghapus, mengubah, atau memindahkan package)
-
----
-
-### Gambaran Proyek
-
 Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 
 - **Latihan 1**: Fundamental
@@ -29,9 +16,7 @@ Selain itu, juga ada beberapa latihan opsional seperti di bawah ini:
 - **Latihan Opsional 4**: Get Middle Characters
 - **Latihan Opsional 5**: Concat String 
 
----
-
-### Memeriksa Latihan
+# Memeriksa Latihan
 
 Untuk memeriksa apakah seluruh latihan sudah dikerjakan dengan benar. Anda bisa mengikuti beberapa langkah berikut:
 
