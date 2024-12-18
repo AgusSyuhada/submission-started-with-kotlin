@@ -15,30 +15,31 @@ Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindar
 
 Di dalam proyek, terdapat beberapa latihan dengan detail seperti di bawah ini:
 
-- Latihan 1: Fundamental
-- Latihan 2: Control Flow
-- Latihan 3: Generics
-- Latihan 4: Collections
-- Latihan 5: Coroutines
+- **Latihan 1**: Fundamental
+- **Latihan 2**: Control Flow
+- **Latihan 3**: Generics
+- **Latihan 4**: Collections
+- **Latihan 5**: Coroutines
 
 Selain itu, juga ada beberapa latihan opsional seperti di bawah ini:
 
-- Latihan opsional 1: Sum of Big Three 
-- Latihan opsional 2: Min and Max 
-- Latihan opsional 3: Manipulate String
-- Latihan opsional 4: Get Middle Characters
-- Latihan opsional 5: Concat String 
+- **Latihan Opsional 1**: Sum of Big Three 
+- **Latihan Opsional 2**: Min and Max 
+- **Latihan Opsional 3**: Manipulate String
+- **Latihan Opsional 4**: Get Middle Characters
+- **Latihan Opsional 5**: Concat String 
 
 ---
 
-##Memeriksa Latihan
+## Memeriksa Latihan
 
 Untuk memeriksa apakah seluruh latihan sudah dikerjakan dengan benar. Anda bisa mengikuti beberapa langkah berikut:
 
 Buka bilah terminalyang ada pada sebelah kiri bawah IntelliJ kemudian jalankan perintah di bawah ini:
-
+| ----------------------------------- |
 | gradle test --tests ExamTestMain -q |
-
+| ----------------------------------- |
 atau
-
+| -------------------------------------- |
 | ./gradlew test --tests ExamTestMain -q |
+| -------------------------------------- |
