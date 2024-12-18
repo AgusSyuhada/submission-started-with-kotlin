@@ -30,3 +30,19 @@ atau
 ```
 ./gradlew test --tests ExamTestMain -q 
 ```
+
+# Memeriksa Latihan Opsional dan Lint
+
+Untuk memeriksa apakah seluruh latihan opsional sudah dikerjakan dengan benar. Anda bisa mengikuti beberapa langkah berikut:
+
+Buka bilah terminal yang ada pada IntelliJ kemudian jalankan perintah di bawah ini:
+
+```
+gradle test --tests ExamTestOptional -q
+```
+
+atau
+
+```
+./gradlew test --tests ExamTestOptional -q
+```
