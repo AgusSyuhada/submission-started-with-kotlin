@@ -36,10 +36,14 @@ Selain itu, juga ada beberapa latihan opsional seperti di bawah ini:
 Untuk memeriksa apakah seluruh latihan sudah dikerjakan dengan benar. Anda bisa mengikuti beberapa langkah berikut:
 
 Buka bilah terminalyang ada pada sebelah kiri bawah IntelliJ kemudian jalankan perintah di bawah ini:
+---
 | ----------------------------------- |
 | gradle test --tests ExamTestMain -q |
 | ----------------------------------- |
+---
 atau
+---
 | -------------------------------------- |
 | ./gradlew test --tests ExamTestMain -q |
 | -------------------------------------- |
+---
